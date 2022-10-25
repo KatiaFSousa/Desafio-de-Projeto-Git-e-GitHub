@@ -1,0 +1,3 @@
+SHA1: Algoritmo de encriptação
+Mkdir: roda o diretório
+git add. ou git add -a: adiciona arquivos fora do git
